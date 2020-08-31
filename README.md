@@ -18,6 +18,5 @@
 <br>
 <br>
 
-### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausarsayyed20)](https://github.com/kausarsayyed20/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausarsayyed20&layout=compact)](https://github.com/kausarsayyed20/github-readme-stats)
