@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi 👋, I'm Kausar <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
-<!--
-**kausarsayyed20/kausarsayyed20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning React and NodeJS
+- 💬 Ask me about Java, HTML, CSS and JavaScript
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: It's okay to live a life that others don't understand!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+- 📫 How to reach me: 
+
+    <a href="https://twitter.com/Kausarsayyed20">
+  <img src="https://media4.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif?cid=790b7611y7b1038bgsmdl6bz2654xm0ctwfyhllk7w79ag68&rid=giphy.gif" align="left" width="50px"/>
+</a>
+
+<br>
+<br>
+
+### Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausarsayyed20)](https://github.com/kausarsayyed20/github-readme-stats)
