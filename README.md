@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning React and NodeJS
 - 💬 Ask me about Java, HTML, CSS and JavaScript
 - 😄 Pronouns: She/Her
+- :heart_eyes: Hobby : I love painting:art:
 - ⚡ Fun fact: It's okay to live a life that others don't understand!!
 
 <br>
