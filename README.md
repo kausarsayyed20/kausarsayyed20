@@ -6,7 +6,7 @@
 - 💬 Ask me about Java, HTML, CSS and JavaScript
 - 😄 Pronouns: She/Her
 - :heart_eyes: Hobby : I love painting:art:
-- ⚡ Fun fact: It's okay to live a life that others don't understand!!
+- ⚡ Fun fact: I love sweet pani Puri rather than spicy pani puri :stuck_out_tongue_winking_eye:
 
 <br>
 
