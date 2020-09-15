@@ -12,13 +12,18 @@
 
 - 📫 How to reach me: 
 
-    <a href="https://twitter.com/Kausarsayyed20">
-  <img src="https://media4.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif?cid=790b7611y7b1038bgsmdl6bz2654xm0ctwfyhllk7w79ag68&rid=giphy.gif" align="left" width="50px"/>
+   
+
+   <a href="https://twitter.com/Kausarsayyed20">
+  <img align="left"  src="https://img.icons8.com/clouds/150/000000/twitter.png"/>
 </a>
 
 <br>
 <br>
 <br>
+<br>
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausarsayyed20&layout=compact)](https://github.com/kausarsayyed20/github-readme-stats)
