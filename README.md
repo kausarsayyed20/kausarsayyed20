@@ -19,13 +19,10 @@
 
 <a href="https://twitter.com/Kausarsayyed20">
   <img align="left" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
-</a>
+</a></br>
 <br>
 <br>
 <br>
 <br>
-
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausarsayyed20&layout=compact)](https://github.com/kausarsayyed20/github-readme-stats)
