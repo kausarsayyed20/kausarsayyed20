@@ -17,7 +17,7 @@
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/twitter.png"/>
 </a>
 
-<a href="https://twitter.com/Kausarsayyed20">
+<a href="https://www.linkedin.com/in/kausar-sayyed07/">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
 </a></br>
 <br>
