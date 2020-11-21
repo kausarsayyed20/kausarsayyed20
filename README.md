@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/kausar-sayyed07/">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
 </a>
-<a href="kausarsayyed.20@gmail.com">
+<a href="mailto:kausarsayyed.20@gmail.com">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
 </a></br>
 <br>
