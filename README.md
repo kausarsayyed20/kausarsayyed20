@@ -1,4 +1,4 @@
-## Hi 👋, I'm Kausar <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
+## Hi 👋, I'm Kausar <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50">  
 
 
 - 🔭 I’m currently working on MERN Stack
@@ -6,26 +6,30 @@
 - 💬 Ask me about Java, HTML, CSS and JavaScript
 - 😄 Pronouns: She/Her
 - :heart_eyes: Hobby : I love painting:art:
-- ⚡ Fun fact: I love sweet pani Puri rather than spicy pani puri :stuck_out_tongue_winking_eye:
+<hr></hr>
 
-<br>
 
-- 📫 How to reach me: 
+ ### 📫 How to reach me: 
 
-  
+  <p float="left">
    <a href="https://twitter.com/Kausarsayyed20">
-  <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/twitter.png"/>
+  <img src="https://img.icons8.com/glyph-neue/64/undefined/twitter-squared.png"/>
 </a>
-
+&nbsp
 <a href="https://www.linkedin.com/in/kausar-sayyed07/">
-  <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
-</a>
+  <img src="https://img.icons8.com/glyph-neue/64/undefined/linkedin.png"/>
+</a>&nbsp
 <a href="mailto:kausarsayyed.20@gmail.com">
-  <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
-</a></br>
-<br>
-<br>
-<br>
-<br>
+  <img src="https://img.icons8.com/material-two-tone/64/undefined/gmail.png"/>
+</a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausarsayyed20&layout=compact)](https://github.com/kausarsayyed20/github-readme-stats)
+<hr></hr>
+
+### :octocat: Github Stats
+<p align="center">
+    <img height="160" alt="Ritesh's Github Stats"
+        src="https://github-readme-stats.vercel.app/api?username=kausarsayyed20&show_icons=true&theme=tokyonight&count_private=true" />
+    <img alt="Ritesh's Github Stats" height="160"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausarsayyed20&hide=assembly&layout=compact&theme=tokyonight&count_private=true" />
+</p>
