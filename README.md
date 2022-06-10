@@ -33,3 +33,6 @@
     <img alt="Ritesh's Github Stats" height="160"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausarsayyed20&hide=assembly&layout=compact&theme=tokyonight&count_private=true" />
 </p>
+
+### 🏆 Github Achievements
+<p align="center"> <a href="https://github.com/kausarsayyed20"><img src="https://github-profile-trophy.vercel.app/?username=kausarsayyed20&margin-w=5&theme=radical" alt="blackstorm0514" /></a> </p>
